@@ -20,7 +20,7 @@ This repository contains an interactive **Bike Sales Dashboard** created in Micr
 ## File Overview
 
 - **Bike.png**: Screenshot of the dashboard showcasing the visual insights and interactivity.
-- **Dashboard Excel File** (not included in this repository): Contains the original Excel workbook with the interactive dashboard and slicers.
+- **Dashboard Excel File**: Contains the original Excel workbook with the interactive dashboard and slicers.
 
 ## How to Use
 
